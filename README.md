@@ -4,38 +4,38 @@ BEMANI游戏 泛用 输入IO主控/灯光IO/读卡器
 
   Beatmania IIDX 系列
   
-    real读卡器 - mcykin
+    real读卡器
 
-    1P/2P单人主控 - mcykin
+    1P/2P单人主控
 
-    LED文本读写显示 `- Simakeng`
+    LED文本读写显示
 
   Sound Voltex 系列
   
-    real读卡器 - mcykin
+    real读卡器
 
-    键盘输入(只能使用虚拟卡) - mcykin
+    键盘输入(只能使用虚拟卡)
 
-    SDVX专用带读卡器带灯主控 - mcykin
+    SDVX专用带读卡器带灯主控
     
   Jubeat 系列
   
-  real读卡器 - mcykin
+  real读卡器 
     
-    灯光io - mcykin
+    灯光io 
  
-    键盘输入(没考虑你手台怎么设计) - mcykin
+    键盘输入(没考虑你手台怎么设计)
     
   Reflec Beat 系列
   
-    real读卡器 - mcykin
+    real读卡器 
     
   Pop'n Music
   
-    real读卡器 - mcykin
+    real读卡器 
 
-    1p主控 - mcykin
-
+    1p主控 
+    
 
 目前只支持Arduino Leonardo/Mega2560
 
